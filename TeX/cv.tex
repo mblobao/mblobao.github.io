@@ -1,0 +1,56 @@
+\documentclass{cv}
+
+%\usepackage[utf8]{inputenc}
+
+\newcommand{\lang}{en}
+
+\author{Marcel Britto Lobão}  % Nome
+
+\begin{document}
+    \begin{minipage}[t]{0.6\textwidth}
+        \name
+        
+        \vspace{6pt}
+        \normalsize\captxt{  % Texto de Introdução
+            Mechanical Engineering with Data Science Expertise
+        }{
+            Engenheiro Mecânico com especialidade em Ciências de Dados
+        }
+    \end{minipage}
+    \hfill
+    \begin{minipage}[t]{0.6\textwidth}  % Endereço
+        Rua João Bião de Cerqueira, 262, ap. 504A
+        
+        Pituba, Salvador/BA, Brasil
+        
+        Cel.: +55 (71) 98894-8086
+        
+        e-mail: marcelblobao@gmail.com
+
+        web: \href{https://mblobao.github.io/}{https://mblobao.github.io/}
+    \end{minipage}
+    
+    \vspace{2mm}
+
+    \begin{minipage}[t]{0.3\textwidth}
+        \cvsection{Links}{Links}
+            Github:\\ \href{https://github.com/mblobao}{https://github.com/mblobao}\\
+            LinkedIn:\\ \href{https://www.linkedin.com/in/mblobao/}{https://www.linkedin.com/in/mblobao/}
+            
+        \cvsection{Idiomas}{Languages}
+            \captxt{Portuguese: Native}{Português: Nativo}\\
+            \captxt{English: Fluent}{Inglês: Fluente}
+        
+        \include{sections/skills}
+        
+        \include{sections/education}
+        
+    \end{minipage}
+    \hfill
+    \begin{minipage}[t]{0.65\textwidth} 
+    
+        \include{sections/experience}
+        \include{sections/publications}
+        
+    \end{minipage}
+\end{document}
