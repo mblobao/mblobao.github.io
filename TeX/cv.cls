@@ -48,14 +48,20 @@
     % Function, função, company, period, periodo
     \vspace{1mm}
     \large{\captxt{#4}{#5} - #3 \hfill \captxt{#1}{#2}}
-    \vspace{2pt}\\
+    \vspace{1mm}\\
 }{
+    \vspace{1mm}
+}
+
+\newcommand{\publication}[6]{
+    % Title, Título, Date, Data, Local, Local
+    {\captxt{#3}{#4} \hfill \textbf{\captxt{#5}{#6}}}\\
+    {\captxt{#1}{#2}}
     \vspace{2mm}
 }
 
 \newcommand{\cvsection}[2]{
-    \vspace{10mm}
-    \ifthenelse{\equal{\lang}{pt}}{
+    \ifthenelse{\equal{\lang}{en}}{
         \section[#1]{#1}    
     }{
         \section[#2]{#2}
