@@ -1,0 +1,210 @@
+{
+    "name": "Marcel Britto Lobão",
+    
+    "intro": {
+        "en": "",
+        "pt": ""
+    },
+
+    "contact" : {
+        "street": {
+            "en": "João Bião de Cerqueira Street",
+            "pt": "Rua João Bião de Cerqueira"
+        },
+        "number": 262,
+        "comp": "ap 504 A",
+        "neighborhood": "Pituba",
+        "city": "Salvador",
+        "celphone": "+55(71)98894-8086",
+        "email": "marcelblobao@gmail.com",
+        "web": "https://mblobao.github.io/"
+    },
+
+    "links": {
+        "GitHub": "https://github.com/mblobao",
+        "GitLab": "",
+        "Linkedin": "https://www.linkedin.com/in/mblobao/"
+    },
+
+    "languages": {
+        "en": {
+            "Portuguese": "Native",
+            "English": "Fluent"
+        },
+        "pt": {
+            "Português": "Nativo",
+            "Inglês": "Fluente"
+        }
+    },
+
+    "skills": {
+        "en": {
+            "OS" : ["Windows"],
+            "PROGRAMMING LAGUAGES": {
+                "Python": "Advanced",
+                "VBA": "Intermediate",
+                "JavaScript": "Basic",
+                "HTML": "Basic",
+                "CSS": "Basic"
+            },
+            "DATABASES": {"SQLite": "Intermediate"},
+            "OFFICE": {
+                "Word": "Advanced",
+                "Excel": "Advanced",
+                "PowerPoint": "Advanced",
+                "Project": "Intermediate",
+                "PowerFlow (Automate)": "Intermediate",
+                "Power BI": "Intermediate"
+            },
+            "OTHER SOFTWARES": ["MarkDown", "LaTeX", "Git", "Minitab", "MatLab", "MathCAD", "SAP PM", "SAP Scripting"],
+            "ANALYSIS": [
+                "Data Science", "Machine Learning", "Six Sigma Green Belt","Design of Experiments",
+                "Finite Element Method",  "Strain Gauge Analysis"
+            ]
+        },
+        "pt": {
+            "OS" : ["Windows"],
+            "LINGUAGENS DE PROGRAMAÇÃO": {
+                "Python": "Avançado",
+                "VBA": "Intermediário",
+                "JavaScript": "Básico",
+                "HTML": "Básico",
+                "CSS": "Básico"
+            },
+            "BANCOS DE DADOS": {"SQLite": "Intermediário"},
+            "OFFICE": {
+                "Word": "Avançado",
+                "Excel": "Avançado",
+                "PowerPoint": "Avançado",
+                "Project": "Intermediário",
+                "PowerFlow (Automate)": "Intermediário",
+                "Power BI": "Intermediário"
+            },
+            "OUTROS SOFTWARES": ["MarkDown", "LaTeX", "Git", "Minitab", "MatLab", "MathCAD", "SAP PM", "SAP Scripting"],
+            "ANÁLISE": [
+                "Ciência de Dados", "Aprendizado de Máquina", "Six Sigma Green Belt", "Design de Experimentos",
+                "Método dos Elementos Finitos",  "Extensometria"
+            ]
+        }
+    },
+
+    "education": {
+        "en": [
+            {"name": "PE Graduation", "from": "05-2008", "to": "12-2012", "organization": "FEIRA DE SANTANA STATE UNIVERSITY"},
+            {"name": "PE Academic Exchange", "from": "02-2011", "to": "06-2011", "organization": "COIMBRA UNIVERSITY"},
+            {"name": "Mechanical Engineering", "from": "07-2013", "to": "07-2018", "organization": "BAHIA FEDERAL UNIVERSITY"},
+            {"name": "Data Science MBA", "from": "02-2021", "to": "ongoing", "organization": "SÃO PAULO UNIVERSITY"}
+        ],
+        "pt": [
+            {"name": "Licenciatura em Educação Física", "from": "05-2008", "to": "12-2012", "organization": "UNIVERSIDADE ESTADUAL DE FEIRA DE SANTANA"},
+            {"name": "Intercâmbio Acadêmico em Educação Física", "from": "02-2011", "to": "06-2011", "organization": "UNIVERSIDADE DE COIMBRA"},
+            {"name": "Engenharia Mecânica", "from": "07-2013", "to": "07-2018", "organization": "UNIVERSIDADE FEDERAL DA BAHIA"},
+            {"name": "MBA em Ciências de Dados", "from": "02-2021", "to": "ongoing", "organization": "UNIVERSIDADE DE SÃO PAULO"}
+        ]
+    },
+
+    "experience": {
+        "en": {
+            "PETROBRAS TRANSPORTE S.A.": [
+                {"function": "Planning and Reliability Engineer", "from": "10-2020", "to": "now",
+                    "text": ""
+                },
+                {"function": "Planning and Reliability Engineer", "from": "10-2018", "to": "10-2020",
+                    "text": ""
+                }
+            ],
+            "FORD MOTOR COMPANY": [
+                {"function": "Engineering Intern", "from": "06-2016", "to": "06-2018",
+                    "text": ""
+                }
+            ],
+            "TECHNOLOGICAL INOVATION GROUP": [
+                {"function": "Researcher", "from": "06-2014", "to": "06-2016",
+                    "text": ""
+                }
+            ],
+            "AERO-UFBA AERODESIGN": [
+                {"function": "Developer", "from": "11-2013", "to": "06-2014",
+                    "text": ""
+                }
+            ]
+        },
+        "pt": {
+            "PETROBRAS TRANSPORTE S.A.": [
+                {"function": "Engenheiro de Planejamento e Confiabilidade", "from": "10-2020", "to": "atual",
+                    "text": [
+                        "Planejamento de Paradas de Manutenção e Major Overhaul",
+                        "Otimização dos Planos de Manutenção no SAP PM",
+                        "Automação de Relatórios de Manutenção"
+                    ]
+                },
+                {"function": "Engenheiro de Planejamento e Confiabilidade", "from": "10-2018", "to": "10-2020",
+                    "text": [
+                        "Análise de Confiabilidade de Equipamentos e Sistemas",
+                        "Análises de Falha",
+                        "Análises Estatística de Dados de Vida",
+                        "Planejamento de Paradas de Manutenção e Major Overhaul"
+                    ]
+                }
+            ],
+            "FORD MOTOR COMPANY": [
+                {"function": "Estagiário de Engenharia", "from": "06-2016", "to": "06-2018",
+                    "text": [
+                        "Análise de Vibração e Ruído de componentes e do veículo",
+                        "Análises e Simulação (CAE) para propostas de solução de problemas",
+                        "Acompanhamento, desenvolvimento e atualização de ensaios físicos (4-poster Rig e Teste de Compatibilidade de Materiais para Ruído gerado por atrito)",
+                        "Acompanhamento dos atributos de qualidade de Engenharia Veícular (NVH)",
+                        "Relatórios de qualidade e revisão de indicadores internos e externos",
+                        "Implementação e acompanhamento de contenções na planta"
+                    ]
+                }
+            ],
+            "TECHNOLOGICAL INOVATION GROUP": [
+                {"function": "Pesquisador", "from": "06-2014", "to": "06-2016",
+                    "text": [
+                        "Análise numérica e experimental de fratura em peças plásticas fabricadas por moldagem por injeção (Abaqus e Extensometria)",
+                        "Análise experimental de trecho de Etenoduto da Braskem (Extensometria)",
+                        "Implementação de bancada de testes para homologação de válvulas industriais de acordo com a NBR 15827. (Sistemas de temperaturas, vazamento e pressurização)"
+                    ]
+                }
+            ],
+            "AERO-UFBA AERODESIGN": [
+                {"function": "Desenvolvedor", "from": "11-2013", "to": "06-2014",
+                    "text": [
+                        "Seleção do grupo motopropulsor",
+                        "Cálculo de desempenho em diferentes regimes de voo",
+                        "Auxílio à programação do algoritmo de Otimização Multidisciplinar"
+                    ]
+                }
+            ]
+        }
+    },
+
+    "publications": {
+        "en": [],
+        "pt": [
+            {
+                "name": "Ferramentas de Análise de Causa Raiz (RCA) das Falhas Críticas da Regional Nordeste Meridional da Transpetro",
+                "when": "10-2020", "where": "35° Congresso Brasileiro de Manutenção e Gestão de Ativos",
+                "url": ""
+            },
+            {
+                "name": "Surface treatment to reduce squeak noise in vinyl parts",
+                "when": "09-2018", "where": "27º Congresso SAE Brasil",
+                "url": ""
+            },
+            {
+                "name": "Análise Numérica e Experimental de Fratura em Peças Plásticas Fabricadas por Moldagem por Injeção",
+                "when": "11-2016", "where": "Publicação no Seminário Estudantil – Semente 2016",
+                "url": ""
+            }
+        ]
+    },
+
+    "projects": {
+        "en": [],
+        "pt": [
+            "AIME", "MAGO", "SAMMO", "Detector de Falhas"
+        ]
+    }
+}
