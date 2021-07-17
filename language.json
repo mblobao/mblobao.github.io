@@ -1,0 +1,8 @@
+{
+    "icons": {
+        "main": {"pt": "PRINCIPAL", "en": "HOME"},
+        "about": {"pt": "SOBRE MIM", "en": "ABOUT ME"},
+        "contact": {"pt": "CONTATO", "en": "CONTACT"}
+    },
+    "main-text": {"pt": "Texto sobre mim", "en": "Text about me"}
+}

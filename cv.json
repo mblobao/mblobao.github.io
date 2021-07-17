@@ -1,4 +1,27 @@
 {
+    "sections": {
+        "en": {
+            "links": "Links",
+            "languages": "Languages",
+            "skills": "Skills",
+            "experience": "Experience",
+            "education": "Education",
+            "certifications": "Certifications",
+            "publications": "Publications",
+            "projects": "Projects"
+        },
+        "pt": {
+            "links": "Links",
+            "languages": "Línguas",
+            "skills": "Habilidaes",
+            "experience": "Experiência",
+            "education": "Educação",
+            "certifications": "Certificações",
+            "publications": "Publicações",
+            "projects": "Projetos"
+        }
+    },
+    
     "name": "Marcel Britto Lobão",
     
     "intro": {
@@ -99,7 +122,7 @@
             {"name": "Licenciatura em Educação Física", "from": "05-2008", "to": "12-2012", "organization": "UNIVERSIDADE ESTADUAL DE FEIRA DE SANTANA"},
             {"name": "Intercâmbio Acadêmico em Educação Física", "from": "02-2011", "to": "06-2011", "organization": "UNIVERSIDADE DE COIMBRA"},
             {"name": "Engenharia Mecânica", "from": "07-2013", "to": "07-2018", "organization": "UNIVERSIDADE FEDERAL DA BAHIA"},
-            {"name": "MBA em Ciências de Dados", "from": "02-2021", "to": "ongoing", "organization": "UNIVERSIDADE DE SÃO PAULO"}
+            {"name": "MBA em Ciências de Dados", "from": "02-2021", "to": "em andamento", "organization": "UNIVERSIDADE DE SÃO PAULO"}
         ]
     },
 
@@ -107,25 +130,50 @@
         "en": {
             "PETROBRAS TRANSPORTE S.A.": [
                 {"function": "Planning and Reliability Engineer", "from": "10-2020", "to": "now",
-                    "text": ""
+                    "text": [
+                        "Major Overhaul Planning",
+                        "SAP PM Maintenance Plans Optimization",
+                        "Maintenance Report Automation"
+                    ]
                 },
                 {"function": "Planning and Reliability Engineer", "from": "10-2018", "to": "10-2020",
-                    "text": ""
+                    "text": [
+                        "Systems and Equipments Reliability Analysis",
+                        "Root Cause Analysis",
+                        "Life Data Statistical Analysis",
+                        "Major Overhaul Planning",
+                        "Maintenance Report Automation"
+                    ]
                 }
             ],
             "FORD MOTOR COMPANY": [
                 {"function": "Engineering Intern", "from": "06-2016", "to": "06-2018",
-                    "text": ""
+                    "text": [
+                        "Vehicle Component NVH",
+                        "CAE analysis and simulation for problem solving",
+                        "Follow-up and development of physical tests (4-poster rig and Material friction combatibility Ziegler test)",
+                        "Vehicle Engineering quality attributes follow-up",
+                        "Quality indicators revision and reporting",
+                        "Manufacturing Plant contentions implementation and follow-up"
+                    ]
                 }
             ],
             "TECHNOLOGICAL INOVATION GROUP": [
                 {"function": "Researcher", "from": "06-2014", "to": "06-2016",
-                    "text": ""
+                    "text": [
+                        "Numerical and experimental analysis of fracture in plastic components manufactured by injection moulding",
+                        "Experimental analysis of Braskem Etheneduct using strain gauges",
+                        "Test Bench implementation for industrial valves homologation according to NBR 15827. (Temperature, leakage and pressure systems)"
+                    ]
                 }
             ],
             "AERO-UFBA AERODESIGN": [
                 {"function": "Developer", "from": "11-2013", "to": "06-2014",
-                    "text": ""
+                    "text": [
+                        "Motopropulsor group selection",
+                        "Performance calculations for different flight regimes",
+                        "Multidisciplinar Optimization algorithm support"
+                    ]
                 }
             ]
         },
@@ -143,7 +191,8 @@
                         "Análise de Confiabilidade de Equipamentos e Sistemas",
                         "Análises de Falha",
                         "Análises Estatística de Dados de Vida",
-                        "Planejamento de Paradas de Manutenção e Major Overhaul"
+                        "Planejamento de Paradas de Manutenção e Major Overhaul",
+                        "Automação de Relatórios de Manutenção"
                     ]
                 }
             ],
@@ -179,10 +228,58 @@
             ]
         }
     },
-
-    "publications": {
+    "certifications": {
         "en": [],
         "pt": [
+            {
+                "name": "Python para Processamento de Linguagem Natural",
+                "when": "07-2021", "where": "Universidade de São Paulo",
+                "url": ""
+            },
+            {
+                "name": "Aprendizado de Máquina",
+                "when": "08-2020", "where": "Stanford",
+                "url": "https://www.coursera.org/account/accomplishments/verify/M7LR4P3KTZRQ"
+            },
+            {
+                "name": "Six Sigma Green Belt",
+                "when": "11-2016", "where": "Interface Treinamentos"
+            },
+            {
+                "name": "Introdução ao Método dos Elementos Finitos",
+                "when": "06-2016", "where": "Universidade Federal da Bahia"
+            }
+        ]
+    },
+    "publications": {
+        "en": [
+            {
+                "name": "Workforce measuring and dimensioning automated system implementation",
+                "when": "10-2021", "where": "36° Brasilian Congress of Maintenance and Asset Management",
+                "url": ""
+            },
+            {
+                "name": "Root Cause Analysis Tools for critical failures in the meridional southern northeast region at Transpetro",
+                "when": "10-2020", "where": "35° Brasilian Congress of Maintenance and Asset Management",
+                "url": ""
+            },
+            {
+                "name": "Surface treatment to reduce squeak noise in vinyl parts",
+                "when": "09-2018", "where": "27º SAE Brasil Congress",
+                "url": ""
+            },
+            {
+                "name": "Numerical and experimental analysis of fracture in plastic components manufactured by injection moulding",
+                "when": "11-2016", "where": "Student Seminar Publication – Semente 2016",
+                "url": ""
+            }
+        ],
+        "pt": [
+            {
+                "name": "Implementação de Sistema Automatizado de Medição e Dimensionamento de Mão de Obra",
+                "when": "10-2021", "where": "36° Congresso Brasileiro de Manutenção e Gestão de Ativos",
+                "url": ""
+            },
             {
                 "name": "Ferramentas de Análise de Causa Raiz (RCA) das Falhas Críticas da Regional Nordeste Meridional da Transpetro",
                 "when": "10-2020", "where": "35° Congresso Brasileiro de Manutenção e Gestão de Ativos",
@@ -204,7 +301,38 @@
     "projects": {
         "en": [],
         "pt": [
-            "AIME", "MAGO", "SAMMO", "Detector de Falhas"
+            {
+                "name": "AIME - Automação da Inspeção e Manutenção de Equipamentos",
+                "when": "02-2020",
+                "description": [
+                    "Aplicativo de celular voltado para apontamento das atividades de inspeção e manutenção.",
+                    "Integração com SAP-Scripting",
+                    "Foco no módulo de apontamento da manutenção."
+                ]
+            },
+            {
+                "name": "MAGO",
+                "when": "11-2020",
+                "description": [
+                    "Sistema de monitoramento de base de dados da manutenção",
+                    "Integração de multiprocessamento paralelo em SAP-Scripting"
+                ]
+            },
+            {
+                "name": "SAMMO - Sistema Automatizado de Monitoramento da Mão de Obra",
+                "when": "05-2021",
+                "description": [
+                    "Submódulo do MAGO voltado para o dimensionamento da mão de obra"
+                ]
+            },
+            {
+                "name": "Detector de Falhas",
+                "when": "12-2021",
+                "description": [
+                    "Sistema automatizado de detecção de falhas em equipamentos industriais.",
+                    "Utiliza integração de dados INFO-SCADA com Machine Learning"
+                ]
+            }
         ]
     }
 }
