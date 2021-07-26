@@ -234,20 +234,24 @@
             {
                 "name": "Python para Processamento de Linguagem Natural",
                 "when": "07-2021", "where": "Universidade de São Paulo",
+                "description": "",
                 "url": ""
             },
             {
                 "name": "Aprendizado de Máquina",
                 "when": "08-2020", "where": "Stanford",
-                "url": "https://www.coursera.org/account/accomplishments/verify/M7LR4P3KTZRQ"
+                "description": "",
+                "url": "    "
             },
             {
                 "name": "Six Sigma Green Belt",
-                "when": "11-2016", "where": "Interface Treinamentos"
+                "when": "11-2016", "where": "Interface Treinamentos",
+                "description": ""
             },
             {
                 "name": "Introdução ao Método dos Elementos Finitos",
-                "when": "06-2016", "where": "Universidade Federal da Bahia"
+                "when": "06-2016", "where": "Universidade Federal da Bahia",
+                "description": ""
             }
         ]
     },
