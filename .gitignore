@@ -6,3 +6,12 @@
 *.xdv
 *.synctex(busy)
 *.log
+**/.vscode
+**/.venv
+**/__pycache__
+*.zip
+**/poppler*
+**/.ipynb_checkpoints
+**/nltk
+*.bbl
+*.blg

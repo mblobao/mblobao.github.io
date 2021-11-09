@@ -1,0 +1,84 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.tabs.enabled": true,
+    "python.pythonPath": ".venv\\Scripts\\python.exe",
+    "files.autoSave": "onFocusChange",
+    "csv-preview.separator": ";",
+    "latex-workshop.latex.tools": [{
+        "name": "latexmk",
+        "command": "latexmk",
+        "args": [
+            "-xelatex",
+            "-synctex=1",
+            "-interaction=nonstopmode",
+            "-file-line-error",
+            "%DOC%"
+        ]
+    }],
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/.ipynb_checkpoints": true,
+        "**/.venv": true,
+        "**/.vscode": true,
+        "**/*.aux": true,
+        "**/*.bbl": true,
+        "**/*.blg": true,
+        "**/*.fdb_latexmk": true,
+        "**/*.fls": true,
+        "**/*.out": true,
+        "**/*.synctex.gz": true,
+        "**/*.synctex(busy)": true,
+        "**/*.xdv": true
+    },
+    "markdownlint.config": {
+        "MD013": false,
+        "MD033": false
+    },
+    "todo-tree.general.tags": [
+        "DONE",
+        "FIXME",
+        "TODO",
+        "BUG",
+        "MSG",
+        "IDEA"
+    ],
+    "todo-tree.highlights.customHighlight": {
+        "DONE": {
+            "icon": "check-circle-fill",
+            "iconColour": "green",
+            "background": "darkgreen",
+            "foreground": "white"
+        },
+        "TODO": {
+            "icon": "alert",
+            "iconColour": "yellow",
+            "background": "yellow",
+            "foreground": "black"
+        },
+        "BUG": {
+            "icon": "bug",
+            "iconColour": "black",
+            "background": "black"
+        },
+        "FIXME": {
+            "icon": "flame",
+            "iconColour": "red",
+            "background": "red",
+            "foreground": "black"
+        },
+        "MSG": {
+            "icon": "pin",
+            "iconColour": "gray",
+            "background": "gray",
+            "foreground": "black"
+        },
+        "IDEA": {
+            "icon": "repo",
+            "iconColour": "purple",
+            "background": "purple",
+            "foreground": "gray"
+        }
+    }
+}
